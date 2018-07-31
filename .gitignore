@@ -1,2 +1,2 @@
 *.class
-ignore-test1.txt
+ignore-*.txt
